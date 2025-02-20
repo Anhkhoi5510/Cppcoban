@@ -9,7 +9,7 @@ void bai3();
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(int argc, char** argv) {
-	bai2();
+	bai3();
 	
 
 	return 0;
